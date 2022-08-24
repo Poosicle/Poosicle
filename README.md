@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poosicle&label=Profile%20views&color=0e75b6&style=flat" alt="poosicle" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poosicle" alt="poosicle" /></a> </p>
-
 - 💬 Reach me on **Discord: poopsicle#0001**
 
 - 🌱 I'm located in **Germany.**
@@ -23,4 +21,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poosicle&show_icons=true&locale=en" alt="poosicle" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poosicle&" alt="poosicle" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poosicle" alt="poosicle" /></a> </p>
 
