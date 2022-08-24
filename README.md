@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poosicle&label=Profile%20views&color=0e75b6&style=flat" alt="poosicle" /> </p>
 
-- 💬 Reach me on **Discord: poopsicle#0001**
+- 💬 Reach me on discord: **poopsicle#0001**
 
 - 🌱 I'm located in **Germany.**
 
