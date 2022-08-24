@@ -1,4 +1,4 @@
-[![MasterHead](https://media.discordapp.net/attachments/952614748527165440/952615574750519416/ffggffgdfg.png?width=986&height=329)]
+![MasterHead](https://media.discordapp.net/attachments/952614748527165440/952615574750519416/ffggffgdfg.png?width=986&height=329)
 <h1 align="center">Hi 👋, I'm poopsicle.</h1>
 <h3 align="center">An awesome frontend/backend web developer.</h3>
 
