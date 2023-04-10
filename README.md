@@ -1,12 +1,10 @@
 ![MasterHead](https://media.discordapp.net/attachments/952614748527165440/952615574750519416/ffggffgdfg.png?width=986&height=329)
 <h1 align="center">Hi 👋, I'm poopsicle.</h1>
-<h3 align="center">An awesome frontend/backend web developer.</h3>
+<h3 align="center">A frontend/backend web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poosicle&label=Profile%20views&color=0e75b6&style=flat" alt="poosicle" /> </p>
 
 - 💬 Reach me on discord: **poopsicle#0001**
-
-- 🌱 I'm located in **Germany.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
